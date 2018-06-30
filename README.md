@@ -1,2 +1,2 @@
 # tensorflow-models
-Compendium of practice models coded in tensorflow
+Implementation of core NN models using Tensorflow. 
